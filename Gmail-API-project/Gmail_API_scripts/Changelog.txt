@@ -1,3 +1,4 @@
 Gmail_API:
 v1.0:
 	*Scripts deployed
+	*Resolved Authication flow
