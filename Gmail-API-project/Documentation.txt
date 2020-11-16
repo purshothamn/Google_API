@@ -1,0 +1,17 @@
+Gmail API Documentation
+
+Below reference Links:
+
+https://developers.google.com/gmail/api/
+https://developers.google.com/gmail/api/v1/reference
+http://googleapis.github.io/google-api-python-client/
+http://googleapis.github.io/google-api-python-client/docs/epy/index.html
+https://developers.google.com/gmail/api/quickstart/python
+https://www.youtube.com/watch?v=YVgj9ngUlaY
+https://github.com/samlopezf/gmail-api-sending-emails-tutorial
+https://www.geeksforgeeks.org/with-statement-in-python/
+https://stackoverflow.com/questions/1911281/how-do-i-get-list-of-methods-in-a-python-class
+https://github.com/googleapis/google-cloud-python/issues/5006
+https://developers.google.com/gmail/api/auth/scopes
+https://stackoverflow.com/questions/38633781/python-gmail-api-not-json-serializable/39693258#39693258
+https://stackoverflow.com/questions/9050355/using-quotation-marks-inside-quotation-marks

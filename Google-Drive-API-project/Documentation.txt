@@ -1,0 +1,26 @@
+Google Drive Documentation:
+
+Below reference link:
+https://developers.google.com/drive/api/v3/quickstart/python
+https://www.youtube.com/watch?v=9OYYgJUAw-w
+https://console.developers.google.com/apis/api/drive.googleapis.com/overview?authuser=0&project=quickstart-1594047713403
+https://en.wikipedia.org/wiki/OAuth
+https://pythonhosted.org/PyDrive/quickstart.html
+https://www.geeksforgeeks.org/uploading-files-on-google-drive-using-python/
+https://developers.google.com/drive/api/v3/manage-downloads
+https://pythonhosted.org/PyDrive/filelist.html
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+https://towardsdatascience.com/how-to-manage-files-in-google-drive-with-python-d26471d91ecd
+https://pypi.org/project/PyDrive/
+https://www.geeksforgeeks.org/command-line-arguments-in-python/
+https://www.google.com/search?q=AttributeError%3A+module+%27auth%27+has+no+attribute+%27auth%27&oq=AttributeError%3A+module+%27auth%27+has+no+attribute+%27auth%27&aqs=chrome..69i57j69i58.348j0j4&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/44620775/what-does-this-mean-print-0-1
+https://www.programiz.com/python-programming/online-compiler/?ref=c54ea1ff
+https://googleapis.github.io/google-api-python-client/docs/epy/googleapiclient.discovery-module.html
+https://developers.google.com/drive/api/v3/about-sdk
+https://medium.com/@annissouames99/how-to-upload-files-automatically-to-drive-with-python-ee19bb13dda
+https://stackoverflow.com/questions/19718062/determine-whether-super-new-will-be-object-new-in-python-3
+https://www.w3schools.com/python/python_datetime.asp
+https://stackoverflow.com/questions/6288892/python-how-to-convert-datetime-format
+https://stackoverflow.com/questions/18293302/how-do-i-open-files-in-python-with-variable-as-part-of-filename/18293385
+https://stackoverflow.com/questions/36874223/why-wont-google-api-v3-return-children
